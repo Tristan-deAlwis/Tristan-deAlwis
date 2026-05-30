@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👋 Hi, I'm Tristan de Alwis  
+### 💻 Data Scientist | Software Engineer | AI/ML Engineer  
 
 <!--
 **Tristan-deAlwis/Tristan-deAlwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔭 I’m currently working on ...
+
+- 🤐 Something Encrypted/Cryptography
+- ⚕️ A self-hosted Electronic Health Record w/ an LLM
+
+### 📫 Connect with Me
+
+- [Website](https://tristandealwis-2dxj.bolt.host/)
+- [X](https://x.com/TristandeAlwis)
+
+### 💌 Donate
+
+Please consider donating to help me continue developing cool projects.
+
+| Currency     | Address                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| Bitcoin      | `bc1qsyl3gp3r4dllhnrg3mmc2tt2gepk3v7umpkhpc`                                                    |
+| Bitcoin Cash | `bitcoincash:qpa3cfkfhu53serhkxp9hlpesrl2mfmcwvf35apj02`                                        |
+| Zcash        | `t1Js62HuAhDtXNrPBn8Rnpuhfwkz72Wdvpw`                                                           |
+| Litecoin     | `ltc1q4py7mlgsca2mjy6vtu90gj96yu7qwd45eudwf6`                                                    |
+| Monero       | `85nbNzAaDWwGSPJ2Pod2cdFEkYS8rLSA4jHEwTCsMQF8DMjwSvapcZgBGmkP7vEffSjU3vBqn6y9ETV4w2XrJdct8QiCT52` |
