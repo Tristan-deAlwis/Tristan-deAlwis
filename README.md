@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tristan de Alwis  
-### 💻 Data Scientist | Software Engineer | AI/ML Engineer  
+### 💻 Biomedial Engineer | Data Scientist | Software Engineer | AI/ML Engineer  
 
 <!--
 **Tristan-deAlwis/Tristan-deAlwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
