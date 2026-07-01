@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 🤐 Something Encrypted/Cryptography
 - ⚕️ A self-hosted Electronic Health Record w/ an LLM
 
+### 🔍 Check out my stuff
+- https://visionedgetraining.com/ (Sport Vision Training)
+
 ### 📫 Connect with Me
 
 - [Website](https://tristandealwis-2dxj.bolt.host/)
