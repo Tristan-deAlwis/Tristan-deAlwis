@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚕️ A self-hosted Electronic Health Record w/ an LLM
 
 ### 🔍 Check out my stuff
-- https://visionedgetraining.com/ (Sport Vision Training)
+- https://visionedgetraining.com/ (Sports Vision Training)
 
 ### 📫 Connect with Me
 
