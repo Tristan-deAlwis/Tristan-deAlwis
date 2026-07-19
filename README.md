@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 
 Please consider donating to help me continue developing cool projects.
 
-| Currency     | Address                                                                                          |
-| ------------ | ------------------------------------------------------------------------------------------------ |
-| Bitcoin      | `bc1qsyl3gp3r4dllhnrg3mmc2tt2gepk3v7umpkhpc`                                                    |
-| Bitcoin Cash | `bitcoincash:qpa3cfkfhu53serhkxp9hlpesrl2mfmcwvf35apj02`                                        |
-| Zcash        | `t1Js62HuAhDtXNrPBn8Rnpuhfwkz72Wdvpw`                                                           |
-| Litecoin     | `ltc1q4py7mlgsca2mjy6vtu90gj96yu7qwd45eudwf6`                                                    |
-| Monero       | `85nbNzAaDWwGSPJ2Pod2cdFEkYS8rLSA4jHEwTCsMQF8DMjwSvapcZgBGmkP7vEffSjU3vBqn6y9ETV4w2XrJdct8QiCT52` |
+| Currency     | Address                                                                                                               |
+| ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| USDC (Solana)| `7AWMkjasDiV9XQdfTCDzSaqbrjbSeFj9KGSozLpq6hZZ`                                                                        |
+| Bitcoin      | `sp1qqggxe4jgp97p8q6yg82y4akuudfszn9sqeraykyyj3lvu7y4yw4ysq7wfzj602mf9x37nc5azvm620r5raqqr5gyfhj98evveyyllq8ffunmm9kq`|
+| Bitcoin Cash | `bitcoincash:qz98xlz9c79khjw5vf2r6hzmdyjnwsx5sye0q9jnxx`                                                              |
+| Zcash        | `u1cu22zss4hxgu9ql3qfc0408ggqk98t4q8787yt5d789mmqfte2r58fjl9jkg7qcdpaezkpuu2480gtepea9qgm3y4pvpskjr5uc4kztq`          |
+| Litecoin     | `ltcmweb1qqf64gvt5w87nlv6c7ldd978eszwlcwk5deu6tp89xepug3rm2fpmjqklyxz77zr995yqzd4hu7wektk3jqzlsv3my8h83mz8096t7akyzsj4p38j`            |
+| Monero       | `45NPVHvfU5Cb9VWqreTuMwWZqs5voKYWiChKB7Tr6E15eKjrRpbTn7sGLh8b8ar4pWDPCVjyHYHj5Q1YwAgFwfaBEi7Mk9Q`                     |
