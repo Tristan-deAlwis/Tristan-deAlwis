@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with Me
 
-- [Website](tristandealwis.com)
+- [Website](https://www.tristandealwis.com)
 - [X](https://x.com/TristandeAlwis)
 
 ### 💌 Donate
